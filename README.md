@@ -1,5 +1,5 @@
 
-<img src="Visuals/customer_support_analysis.png" alt="Customer Support Banner" width="800" height="350">
+<img src="Visuals/360-customer-im1.webp" alt="Customer Support Banner" width="800" height="350">
 
 # 📊 CUSTOMER_SUPPORT_DATA_ANALYSIS
 
