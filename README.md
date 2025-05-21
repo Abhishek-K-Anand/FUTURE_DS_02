@@ -101,12 +101,12 @@ Click below to open each folder directly:
 
 <table>
   <tr>
-    <td><img src="CUSTOMER_SUPPORT_DATA_ANALYSIS/ticket_by_age.png" alt="Ticket by Age Group" width="400"/></td>
-    <td><img src="For_auto-closed_tickets/ticket_subject_sunburst.png" alt="Ticket Subject Sunburst" width="400"/></td>
+    <td><img src="Visuals/newplot.png" alt="Ticket by Age Group" width="400"/></td>
+    <td><img src="Visuals/ticket_subject_sunburst.png" alt="Ticket Subject Sunburst" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="For_open_tickets/ticket_type_bar.png" alt="Ticket Type Bar" width="400"/></td>
-    <td><img src="For_resolved_tickets/response_time_channel.png" alt="Response Time by Channel" width="400"/></td>
+    <td><img src="Visuals/ticket_type_bar.png" alt="Ticket Type Bar" width="400"/></td>
+    <td><img src="Visuals/response_time_channel.png" alt="Response Time by Channel" width="400"/></td>
   </tr>
 </table>
 
