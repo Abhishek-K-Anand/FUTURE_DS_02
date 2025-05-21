@@ -43,7 +43,7 @@ The project includes simple and clear graphs like:
 
 ---
 
-## 🛠 Libraries Used
+##  Libraries Used
 - pandas  
 - numpy  
 - matplotlib  
