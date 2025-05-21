@@ -4,14 +4,15 @@
 # 📊 CUSTOMER_SUPPORT_DATA_ANALYSIS
 
 ## 📑 Table of Contents
-- [Project Overview](#Project-Overview)
-- [Objective](#objective)
-- [Key Visuals](#key-visuals)
-- [Libraries Used](#libraries-used)
-- [Key Insights](#key-insights)
-- [Dataset Description](#dataset-description)
-- [Subgroup Analysis](#subgroup-analysis)
+- [Project Overview](#-project-overview)
+- [Objective](#-objective)
+- [Key Visuals](#-key-visuals)
+- [Libraries Used](#-libraries-used)
+- [Key Insights](#-key-insights)
+- [Dataset Description](#-dataset-description)
+- [Subgroup Analysis](#-subgroup-analysis)
 - [📁 Jump to Folder Links](#-jump-to-folder-links)
+
 
 ---
 
