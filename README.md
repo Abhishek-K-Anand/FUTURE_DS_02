@@ -4,7 +4,7 @@
 # 📊 CUSTOMER_SUPPORT_DATA_ANALYSIS
 
 ## 📑 Table of Contents
-- [Project Overview](#project-overview)
+- [Project Overview](#Project-Overview)
 - [Objective](#objective)
 - [Key Visuals](#key-visuals)
 - [Libraries Used](#libraries-used)
