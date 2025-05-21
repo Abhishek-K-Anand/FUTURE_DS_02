@@ -105,7 +105,7 @@ Click below to open each folder directly:
     <td><img src="Visuals/Customer Issues by Gender and Age Group.png" alt="Ticket Subject Sunburst" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Visuals/ticket_type_bar.png" alt="Ticket Type Bar" width="400"/></td>
+    <td><img src="Visuals/Ticket Types Raised by Age Group.png" alt="Ticket Type Bar" width="400"/></td>
     <td><img src="Visuals/response_time_channel.png" alt="Response Time by Channel" width="400"/></td>
   </tr>
 </table>
