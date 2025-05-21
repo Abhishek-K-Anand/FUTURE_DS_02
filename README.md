@@ -102,7 +102,7 @@ Click below to open each folder directly:
 <table>
   <tr>
     <td><img src="Visuals/newplot.png" alt="Ticket by Age Group" width="400"/></td>
-    <td><img src="Visuals/ticket_subject_sunburst.png" alt="Ticket Subject Sunburst" width="400"/></td>
+    <td><img src="Visuals/Customer Issues by Gender and Age Group.png" alt="Ticket Subject Sunburst" width="400"/></td>
   </tr>
   <tr>
     <td><img src="Visuals/ticket_type_bar.png" alt="Ticket Type Bar" width="400"/></td>
