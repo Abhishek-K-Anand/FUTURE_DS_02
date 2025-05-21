@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="your-image-url" alt="Customer Support Banner" width="80%" height="auto">
+  <img src="Visuals/cus_tic_image.png" alt="Customer Support Banner" width="80%" height="auto">
 </p>
+
 
 
 # 📊 CUSTOMER_SUPPORT_DATA_ANALYSIS
