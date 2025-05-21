@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="Visuals/cus_tic_image.png" alt="Customer Support Banner" width="80%" height="auto">
-</p>
 
-
+<img src="Visuals/cus_tic_image.png" alt="Customer Support Banner" width="800" height="350">
 
 # 📊 CUSTOMER_SUPPORT_DATA_ANALYSIS
 
