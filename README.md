@@ -87,9 +87,9 @@ We looked at tickets that were solved. Many elderly users had technical or refun
 Click below to open each folder directly:
 
 - [CUSTOMER_SUPPORT_DATA_ANALYSIS](./CUSTOMER_SUPPORT_DATA_ANALYSIS)
-- [Auto-Closed Tickets](./Auto_Closed_Tickets)
-- [Open Tickets](./Open_Tickets)
-- [Resolved Tickets](./Resolved_Tickets)
+- [For_auto-closed_tickets](./For_auto-closed_tickets)
+- [For_open_tickets](./For_open_tickets)
+- [For_resolved_tickets](./For_resolved_tickets)
 
 
 
