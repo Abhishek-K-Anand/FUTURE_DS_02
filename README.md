@@ -97,16 +97,23 @@ Click below to open each folder directly:
 - [For_open_tickets](./For_open_tickets)
 - [For_resolved_tickets](./For_resolved_tickets)
 
-## 📊 Key Visuals
+## 👁️ Sample Plots from the Project
 
 <table>
   <tr>
-    <td><img src="Visuals/newplot.png" alt="Ticket by Age Group" width="400"/></td>
-    <td><img src="Visuals/Customer Issues by Gender and Age Group.png" alt="Ticket Subject Sunburst" width="400"/></td>
+    <td><img src="Visuals/newplot.png" alt="Ticket Subject Sunburst" width="400"/></td>
+    <td><img src="Visuals/Customer Issues by Gender and Age Group.png" alt="Customer Issues by Gender and Age" width="400"/></td>
+    <td><img src="Visuals/download.png" alt="Response Type dist" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Visuals/Ticket Types Raised by Age Group.png" alt="Ticket Type Bar" width="400"/></td>
-    <td><img src="Visuals/response_time_channel.png" alt="Response Time by Channel" width="400"/></td>
+    <td><img src="Visuals/Ticket Types Raised by Age Group.png" alt="Ticket Type By AgeGroup" width="400"/></td>
+    <td><img src="Visuals/download (1).png" alt="Response Type dist" width="400"/></td>
+    <td><img src="Visuals/download (4).png" alt="Response Type dist" width="400"/></td>
+  </tr>
+   <tr>
+    <td><img src="Visuals/Ticket priority Breakdown by Ticket Type.png" alt="Ticket Type By AgeGroup" width="400"/></td>
+    <td><img src="Visuals/download (7).png" alt="Response Type dist" width="400"/></td>
+    <td><img src="Visuals/tk.png" alt="Response Type dist" width="400"/></td>
   </tr>
 </table>
 
