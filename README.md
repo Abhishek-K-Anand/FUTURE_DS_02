@@ -17,7 +17,9 @@
 ---
 
 ## 📌 Project Overview
-This project is about analyzing customer support tickets. It helps us understand what kinds of problems customers face, how quickly we solve them, and how to make our support system better. The project is divided into three parts:  
+This project focuses on analyzing customer support ticket data to understand the most common customer issues, how quickly they are resolved, and how we can improve the overall support experience.
+We cleaned and explored the dataset, identified problem areas, and focused especially on elderly users, who often face more technical difficulties. We also analyzed ticket priorities, response delays, resolution time, and customer satisfaction trends.. 
+The project is divided into three parts:  
 1. Auto-closed tickets  
 2. Open (unresolved) tickets  
 3. Resolved tickets  
@@ -25,21 +27,23 @@ This project is about analyzing customer support tickets. It helps us understand
 ---
 
 ## 🔍 Objective
-- To find tickets that were auto-closed after no reply for many days  
-- To check open tickets that were never answered by the support team  
-- To understand common issues in resolved tickets  
-- To suggest ways to make the support process faster and easier for customers  
+- Identify common ticket types and subjects  
+- Analyze response and resolution times 
+- Understand how age groups and support channels affect ticket handling 
+- To suggest ways to make the support process faster and easier for customers
+- Suggest practical solutions like chatbots and improved help sections  
 
 ---
 
 ## 📊 Key Visuals
 The project includes simple and clear graphs like:
 
-- Ticket closing time trends  
-- Problems faced by elderly users  
-- Delay vs resolution time graphs  
-- Ticket priority vs customer ratings  
-- Ticket status and channel performance charts  
+- Average Satisfaction Rating Across Age Groups for Resolved Tickets  
+- Ticket Status Distribution 
+- Customer Issues by Gender and Age Group  
+- Types of Issues Reported by Different Age Groups 
+- Status Distribution for Ticket Type Issue
+- Ticket Priority Breakdown by Ticket Type 
 
 ---
 
@@ -48,7 +52,8 @@ The project includes simple and clear graphs like:
 - numpy  
 - matplotlib  
 - seaborn  
-- plotly.express  
+- plotly.express
+- nltk  
 
 ---
 
@@ -92,5 +97,17 @@ Click below to open each folder directly:
 - [For_open_tickets](./For_open_tickets)
 - [For_resolved_tickets](./For_resolved_tickets)
 
+## 📊 Key Visuals
+
+<table>
+  <tr>
+    <td><img src="CUSTOMER_SUPPORT_DATA_ANALYSIS/ticket_by_age.png" alt="Ticket by Age Group" width="400"/></td>
+    <td><img src="For_auto-closed_tickets/ticket_subject_sunburst.png" alt="Ticket Subject Sunburst" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="For_open_tickets/ticket_type_bar.png" alt="Ticket Type Bar" width="400"/></td>
+    <td><img src="For_resolved_tickets/response_time_channel.png" alt="Response Time by Channel" width="400"/></td>
+  </tr>
+</table>
 
 
