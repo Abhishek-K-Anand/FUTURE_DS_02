@@ -7,7 +7,7 @@
 - [Project Overview](#-project-overview)
 - [Objective](#-objective)
 - [Key Visuals](#-key-visuals)
-- [🛠️ Libraries Used](#libraries-used)
+- [Libraries Used](#libraries-used)
 - [Key Insights](#-key-insights)
 - [Dataset Description](#-dataset-description)
 - [Subgroup Analysis](#-subgroup-analysis)
@@ -43,7 +43,7 @@ The project includes simple and clear graphs like:
 
 ---
 
-## 🛠️ Libraries Used
+## 🛠 Libraries Used
 - pandas  
 - numpy  
 - matplotlib  
