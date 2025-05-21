@@ -1,5 +1,5 @@
 
-<img src="Visuals/360-customer-im1.webp" alt="Customer Support Banner" width="800" height="350">
+<img src="Visuals/360-customer-im1.webp" alt="Customer Support Banner" width="700" height="350">
 
 # 📊 CUSTOMER_SUPPORT_DATA_ANALYSIS
 
@@ -86,9 +86,10 @@ We looked at tickets that were solved. Many elderly users had technical or refun
 ## 📁 Jump to Folder Links
 Click below to open each folder directly:
 
+- [CUSTOMER_SUPPORT_DATA_ANALYSIS](./CUSTOMER_SUPPORT_DATA_ANALYSIS)
 - [Auto-Closed Tickets](./Auto_Closed_Tickets)
 - [Open Tickets](./Open_Tickets)
 - [Resolved Tickets](./Resolved_Tickets)
-- [Final Analysis Report](./Final_Combined_Report)
+
 
 
